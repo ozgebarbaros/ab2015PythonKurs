@@ -1,0 +1,14 @@
+Python ve Django ile Web Uygulaması geliştirme.
+
+http://ab.org.tr/ab15/Kurs/19.html
+
+1. Model-View-Controller Mimarisi
+http://www.codeproject.com/Articles/25057/Simple-Example-of-MVC-Model-View-Controller-Design
+http://martinfowler.com/eaaDev/uiArchs.html (Model View Controller bölümü sadece)
+2. Django http://www.tangowithdjango.com/book/ bu kitabın 7.chapter'ına kadar en az.
+3. Django vs Ruby on Rails https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/
+4. Django vs CakePHP http://stackoverflow.com/questions/2578540/php-frameworks-codeigniter-yii-cakephp-vs-django
+5. Django vs Diğer python web frameworkleri https://www.airpair.com/python/posts/django-flask-pyramid
+
+http://tutorial.djangogirls.org/index.html
+

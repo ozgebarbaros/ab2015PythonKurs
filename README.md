@@ -21,12 +21,14 @@ ab2015PythonKurs
 	- django_orm
 	
 - 3.gun
-	- views.py
-	- urls.py
-	- settings.py
-	- manage.py
-	- template_language
-	- django_form
+	- views.py -- https://docs.djangoproject.com/en/dev/topics/http/views/
+	- urls.py -- https://docs.djangoproject.com/en/1.7/topics/http/urls/
+	- settings.py -- https://docs.djangoproject.com/en/1.7/ref/settings/
+	- manage.py  -- https://docs.djangoproject.com/en/dev/ref/django-admin/
+	- template_language -- https://docs.djangoproject.com/en/dev/ref/templates/api/
+			    -- https://docs.djangoproject.com/en/dev/ref/templates/
+	- django_form  -- http://www.djangobook.com/en/2.0/chapter07.html
+		       -- http://www.tangowithdjango.com/book/chapters/forms.html
 	
 - 4.gun
-	- jawmail
+	- helpdesk https://github.com/ozgebarbaros/helpdesk.git
